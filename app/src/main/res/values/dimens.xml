@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop">7dp</dimen>
+    <dimen name="marginLeft">7dp</dimen>
+    <dimen name="marginRight">7dp</dimen>
+    <dimen name="marginLeftR0C0">15dp</dimen>
+    <dimen name="marginLeftR0C1">15dp</dimen>
+    <dimen name="marginLeftR1C1">7dp</dimen>
+    <dimen name="marginLeftR1C3">9dp</dimen>
+    <dimen name="marginLeftR4C1">14dp</dimen>
+</resources>
